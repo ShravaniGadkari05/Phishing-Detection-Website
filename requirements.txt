@@ -1,0 +1,7 @@
+joblib
+scikit-learn
+requests
+python-whois
+tldextract
+tk
+Pillow
