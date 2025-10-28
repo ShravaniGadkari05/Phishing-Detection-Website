@@ -26,7 +26,10 @@ A Machine Learning based phishing detection tool that analyzes URLs and tells wh
   python phishing_detection.py
   ---
   📸 Output Screenshots
-![Output 1] (
+![Output 1](phishingwebsite output1.jpg)
+![Output 2](phishingwebsiteoutput2.jpg)
+![Output 3](phishingwebsiteoutput3.jpg)
+---
 
 
   
